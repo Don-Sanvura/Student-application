@@ -46,6 +46,7 @@
 
 ###############################################################################
 # diff behavior for common document formats
+
 # 
 # Convert binary document formats to text before diffing them. This feature
 # is only available from the command line. Turn it on by uncommenting the 
